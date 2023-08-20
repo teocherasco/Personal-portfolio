@@ -167,6 +167,16 @@ footer .footer-content .footer-section {
     margin: 30px;
 }
 
+footer .footer-content .footer-section-personal span {
+    display: block;
+    font-size: 1.4em;
+    margin-bottom: 8px;
+    margin-left: 100px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
 
 @media only screen and (max-width: 1000px) {
     .project-container {
